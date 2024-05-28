@@ -10,5 +10,27 @@ or download from this repo https://github.com/tazihad/win10-fonts
 Put the "50-custom-bangla.conf" file into the ".config/fontconfig/conf.d/" directory. [create if the directory doesn't exist]
 
 ```wget https://raw.githubusercontent.com/tazihad/bangla-fonts-fix-linux/main/50-custom-bangla.conf && mkdir -p ~/.config/fontconfig/conf.d && cp 50-custom-bangla.conf $_```
+Extra steps for Firefox users:
+Go to: Preference -> Language & Appearance -> Fonts & Colors
+From Advanced -> Fonts for -> Select Bengali
+Set->
+Proportional: Serif, Size -> 16
+Serif: Nirmala UI, 
+Sans-serif: Nirmala UI
+Monospace: Consolas, Size: 12
+Minimum font size: None
+
+Click Ok.
+
+Again Select Latin
+Set-> Proportional: Serif, Size -> 16
+Serif: Times New Roman, 
+Sans-serif: Arial
+Monospace: Consolas, Size: 12
+Minimum font size: None
+Click Ok.
+
+Now Select the default font: Times New Roman.
+
 
 Collected From @tazihad
