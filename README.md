@@ -13,8 +13,8 @@ Extra steps for Firefox users:
 Go to: Preference -> Language & Appearance -> Fonts & Colors  
 From Advanced -> Fonts for -> Select Bengali  
 <br>
-
 Set->  
+<br>
 Proportional: Serif, Size -> 16  
 Serif: Nirmala UI,    
 Sans-serif: Nirmala UI  
