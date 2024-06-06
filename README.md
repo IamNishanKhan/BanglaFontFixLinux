@@ -9,8 +9,11 @@ Copy all Windows 10 fonts into the "/usr/share/fonts/win10-fonts" folder. Font L
 Put the "50-custom-bangla.conf" file into the ".config/fontconfig/conf.d/" directory. [create if the directory doesn't exist]
 ```wget https://github.com/N1sh4n/Bangla_Font_Fix_Linux/blob/main/50-custom-bangla.conf && mkdir -p ~/.config/fontconfig/conf.d && cp 50-custom-bangla.conf $_```
 Extra steps for Firefox users:  
+<br>
 Go to: Preference -> Language & Appearance -> Fonts & Colors  
 From Advanced -> Fonts for -> Select Bengali  
+<br>
+
 Set->  
 Proportional: Serif, Size -> 16  
 Serif: Nirmala UI,    
