@@ -8,7 +8,7 @@ This will fix small or unsupported Bangla font problems in Linux. This will make
 Font Link: https://drive.google.com/file/d/1CW8p4fQnFpEckJybS67iLKD6YZtHZycr/view?usp=sharing
 
 ## 2. Put the "50-custom-bangla.conf" file into the ".config/fontconfig/conf.d/" directory. [create if the directory doesn't exist]
-```wget https://github.com/N1sh4n/Bangla_Font_Fix_Linux/blob/main/50-custom-bangla.conf && mkdir -p ~/.config/fontconfig/conf.d && cp 50-custom-bangla.conf $_```
+```wget https://github.com/IamNishanKhan/BanglaFontFixLinux/blob/main/50-custom-bangla.conf && mkdir -p ~/.config/fontconfig/conf.d && cp 50-custom-bangla.conf $_```
 
 <br>
 ### Extra steps for Firefox users:  
